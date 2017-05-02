@@ -1,52 +1,17 @@
-# MAD4Jekyll - Theme for Jekyll 
+# Skinny Bones Jekyll Starter
 
-> !!! Configured for **USER** pages !!!
+Just a little something I'm using to jump start a site refresh. I like to think of it as a starter for building your own Jekyll site. I purposely keep the styling minimal and bare to make it easier to add your own flare and markup.
 
-## Welcome to MAD4Jekyll!
-     
+I'm currently using a variation of it on my personal website [Made Mistakes](http://mademistakes.com) with some modifications. To learn more about how to use the theme and install it check out the [Skinny Bones demo](http://mmistakes.github.io/skinny-bones-jekyll/) (*work in progress*).
 
-### 'MAD4Jekyll' is a theme for [Jekyll](https://github.com/jekyll/)
+![screenshot of Skinny Bones](http://mmistakes.github.io/skinny-bones-jekyll/images/skinny-bones-theme-feature.jpg)
 
-> The template has been revised as of August 27th, 2016.
+---
 
-----------
+## Notable Features
 
-> A big thank you to <a href="https://github.com/patmuk">Patrick Mukherjee</a> for his contribution on regenerating the code.
-
-
-### It is based on [Clean Blog](http://ironsummitmedia.github.io/startbootstrap-clean-blog-jekyll/) theme by [Start Bootstrap](http://startbootstrap.com/).
-
-     
-#  Homepage  
-
-#### Header Image
-
-#### A brief description
-
-#### A slider (it is turned off by default, since there is a also a separate section for a gallery)
-
-#### Contact Info
-            
-
-#  Navbar 
-
-#### A logo on the left side
- 
-#### 3 Pages for <a href="{{ site.baseurl }}/writing/">'blogging'</a>, <a href="{{ site.baseurl }}/gallery/">'gallery sliders'</a>, <a href="{{ site.baseurl }}/about/">'about'</a>.
-       
-
-#####  Search page, with all the tags and categories at the bottom
-
-##### Footnotes poping up.
-
->## !!! IMPORTANT !!! Before You Begin
->
->####  Set the **_config.yml** file, with your personal info!
-
-## What's Included
-
-#### A full Jekyll environment is included with this theme. If you have Jekyll installed, simply run `jekyll serve` in your command line and preview the build in your browser. You can use `jekyll serve --watch` to watch for changes in the source files as well.
-
-#### A Grunt environment is also included. There are a number of tasks it performs like minification of the JavaScript, compiling of the LESS files, adding banners to keep the Apache 2.0 license intact, and watching for changes. Run the grunt default task by entering `grunt` into your command line which will build the files. You can use `grunt watch` if you are working on the JavaScript or the LESS.
-
-#### You can run `jekyll serve --watch` and `grunt watch` at the same time to watch for changes and then build them all at once.
+* Jekyll 3.x and GitHub Pages compatible.
+* Stylesheet built using Sass.
+* Data files for easier customization of the site navigation/footer and for supporting multiple authors.
+* Optional Disqus comments, table of contents, social sharing links, and Google AdSense ads.
+* And more.
