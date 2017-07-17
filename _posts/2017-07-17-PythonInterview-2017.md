@@ -2,7 +2,7 @@
 layout:     post
 title:      "Python Interview"
 subtitle:   " \"放这里看着舒服（来源于github）\""
-date:       
+date:2017-07-17 12:00:00       
 author:     "xiaoyuer"
 header-img: "img/post/1st.jpg"
 catalog: true
